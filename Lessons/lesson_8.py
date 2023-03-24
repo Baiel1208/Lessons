@@ -88,3 +88,5 @@ while True:
     elif commands == "2":
         with open('contacts.txt') as read_contact:
             print(read_contact.read())
+
+print("Geeks Hello")
